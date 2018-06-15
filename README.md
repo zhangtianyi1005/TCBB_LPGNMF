@@ -1,1 +1,1 @@
-# TCBB_LPGNMF
+# run main.m
